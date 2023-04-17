@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{18EBCECF-0720-01F2-9B21-D2C523DC8D1C}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Car-main" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Materials" selected="True" />
+              <Node name="Prefabs" expanded="True" />
+              <Node name="Scenes" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="12699318-e306-4cc3-b9ea-797a91d9bbc3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
